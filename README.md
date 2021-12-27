@@ -22,7 +22,7 @@ I´m Julio Prada, I develop Custom Software, integrating latest technologies, cr
 
 ## Connect with me:
 
-<a href="https://www.linkedin.com/in/jcprada05/" rel="external" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1995/PNG/512/chat_communication_linked_in_media_social_icon_123255.png" alt="Linked In" height="30" /></a>&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/jcprada05" rel="external" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_Twitter_38.png" alt="Twitter" height="30" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/jcprada05/" rel="external"><img src="https://cdn.icon-icons.com/icons2/1995/PNG/512/chat_communication_linked_in_media_social_icon_123255.png" alt="Linked In" height="30" /></a>&nbsp;&nbsp;&nbsp;<a target="_blank" href="https://twitter.com/jcprada05" rel="external"><img src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_Twitter_38.png" alt="Twitter" height="30" /></a>
 
 <!--
 **jcprada05/jcprada05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
