@@ -14,7 +14,7 @@ I´m Julio Prada, I develop Custom Software, integrating latest technologies, cr
 ## Skills, Languages, Tools:
 
 <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="HTML" height="25" />&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="CSS" height="25" />&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="Javascript" height="25" />&nbsp;&nbsp;<img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react_color-256.png" alt="React JS" height="25" />&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_gatsby_icon_130583.png" alt="Gatsby" height="25" />&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png" alt="Sass" height="25" />&nbsp;&nbsp;<img src="https://img.icons8.com/color/344/material-ui.png" alt="Material UI" height="25" />&nbsp;&nbsp;<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/250px-Bootstrap_logo.svg.png" alt="Bootstrap" height="25" />&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="Git" height="25" />&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/npm_original_wordmark_logo_icon_146402.png" alt="npm" height="25" />&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS Code" height="25" />&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/powershell_icon_132080.png" alt="CLI" height="25" />
-<! --
+<!--
 &nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/terminal_icon_131942.png" alt="CLI" height="25" />&nbsp;&nbsp;<img src="" alt="" height="25" />
 -->
 
