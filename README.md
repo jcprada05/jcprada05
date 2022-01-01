@@ -3,7 +3,7 @@
 # Julio Prada
 
 ### Hi there 👋
-I´m Julio Prada; I develop custom software integrating latest technologies, creating web applications that allow solutions to the specific needs of companies and professionals of any sector.&nbsp;&nbsp;I'm highly motivated by learning new technologies and improving and strengthening the knowledge acquired 🤪
+I´m Julio Prada; I develop custom software integrating latest technologies, creating web applications that allow digital solutions to the specific needs of companies and professionals of any sector.&nbsp;&nbsp;I'm highly motivated by learning new technologies and improving and strengthening the knowledge acquired 🤪
 
 - 🔭 I’m currently working on Front End Development
 - 🌱 I’m currently learning&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/next_js_logo_icon_145038.png" alt="Next JS" height="20" />&nbsp;&nbsp;<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redux_original_logo_icon_146365.png" alt="Redux" height="20" />
